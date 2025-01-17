@@ -1,5 +1,5 @@
 ### ✡︎ Shalom Adonai ✡︎
-### I am Railan Guimarães;
+### My name is Railan Guimarães;
 <div>
   <a href="https://github.com/RailanC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RailanC&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -9,16 +9,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rai-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rai-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/python.svg">
+  <img align="center" alt="Rai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 ##
 
 - 🔭 Web Developer;
-- 🌱 Estou a estudar TypeScript, Python, React, ...;
-- 💬 "Ouça conselhos e aceite instruções e acabará sendo sábio.", Pr[19:20];
-- 🥇 "É melhor obter sabedoria do que ouro!", Pr[16:16][a];
-- 🥈 "É melhor obter entendimento do que prata!", Pr[16:16][b];
+- 🌱 I am studing: Python, React, NextJS, NodeJS, SQL ...;
+- 💬 "Listen to advice and accept discipline,and at the end you will be counted among the wise.", Pr[19:20];
+- 💬 "How much better to get wisdom than gold,to get insight rather than silver!", Pr[16:16][a];
 ##
 
 <div> 
