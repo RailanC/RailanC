@@ -15,7 +15,7 @@
 - 🔭 Web Developer;
 - 🌱 I am studing: Python, React, NextJS, NodeJS, SQL ...;
 - 💬 "Listen to advice and accept discipline,and at the end you will be counted among the wise.", Pr[19:20];
-- 💬 "How much better to get wisdom than gold,to get insight rather than silver!", Pr[16:16][a];
+- 💬 "How much better to get wisdom than gold,to get insight rather than silver!", Pr[16:16];
 ##
 
 <div> 
