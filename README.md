@@ -14,15 +14,15 @@
 ##
 
 - 🔭 Web Developer;
-- 🌱 I am studing: Python, React, NextJS, NodeJS, SQL ...;
+- 🌱 I am studing: PHP, React, SQL, JavaScript ...;
 - 💬 "Listen to advice and accept discipline,and at the end you will be counted among the wise.", Pr[19:20];
 - 💬 "How much better to get wisdom than gold,to get insight rather than silver!", Pr[16:16];
 ##
 
 <div> 
   <a href = "mailto:railansouzaguimaraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/railan-guimar%C3%A3es-2601041bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.hackerrank.com/inglesrsg" target="_blank"><img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" height="27em"  target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raidev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://leetcode.com/u/RailanC/" target="_blank"><img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" height="27em"  target="_blank"></a>
   
   ![Snake animation](https://github.com/RailanC/RailanC/blob/output/github-contribution-grid-snake.svg)
 </div>
