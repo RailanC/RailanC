@@ -22,8 +22,9 @@
 <div> 
   <a href = "mailto:railansouzaguimaraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raidev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://leetcode.com/u/RailanC/" target="_blank"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="20"/>
+  <a href="https://leetcode.com/u/RailanC/" target="_blank"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="25"/>
 </a>
-  
+  ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
   ![Snake animation](https://github.com/RailanC/RailanC/blob/output/github-contribution-grid-snake.svg)
 </div>
+
