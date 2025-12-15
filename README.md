@@ -1,5 +1,5 @@
 ### ✡︎ Shalom Adonai ✡︎
-### Hi, I'm Railan, a junior full stack developer based in Lisbon.  
+### Hi, I'm Railan, a junior full stack developer based in Rennes.  
 ### I enjoy building web applications with JavaScript/React, PHP and SQL.
 ### Currently focusing on improving my backend and database skills while working on real-world style projects.
 <div>
