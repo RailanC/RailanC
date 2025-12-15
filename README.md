@@ -16,8 +16,9 @@ Currently focusing on improving my backend and database skills while working on 
   
 ##
 
-- 🔭 Web Developer;
-- 🌱 I am studing: PHP, React, SQL, JavaScript ...;
+- JavaScript (ES6+), React, Next.js
+- PHP, SQL
+- HTML, CSS
 - 💬 "Listen to advice and accept discipline,and at the end you will be counted among the wise.", Pr[19:20];
 - 💬 "How much better to get wisdom than gold,to get insight rather than silver!", Pr[16:16];
 ##
